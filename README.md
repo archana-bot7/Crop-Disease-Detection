@@ -1,4 +1,4 @@
-# Crop Doctor — Gradio version
+# Crop Disease Detection 
 
 ## Included
 - Maize, paddy, potato and tomato classes from the existing EfficientNet-B0 checkpoint
